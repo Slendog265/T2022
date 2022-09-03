@@ -11,6 +11,7 @@ public class MRU{
 		this.v = v;
 	}
 	
+	
 	public void Distance(Double d)
 	{
 		this.d = d;
