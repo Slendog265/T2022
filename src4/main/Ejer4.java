@@ -15,7 +15,7 @@ public class Ejer4 {
 		NF resultado = new NF (NF);
 		 System.out.println("Por favor introduzca un numero para obtener su factorial. ");
 		 num= entrada.nextInt();
-		 for (int i=num;i > 0; i--)
+		 for (int i = num;i > 0; i--)
 		 {
 		 NF = NF * i;
 		 resultado.setNF(NF);
